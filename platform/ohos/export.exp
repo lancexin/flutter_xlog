@@ -1,0 +1,8 @@
+{
+    global:
+        Kmp_*;
+        ExportXlog;
+        Dart_XloggerWrite;
+    local:
+        *;
+};

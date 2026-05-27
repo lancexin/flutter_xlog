@@ -1,0 +1,9 @@
+{
+    global:
+        Java_com_tencent_mars_xlog_*;
+        JNI_OnLoad;
+        JNI_OnUnload;
+        Dart_XloggerWrite;
+    local:
+        *;
+};

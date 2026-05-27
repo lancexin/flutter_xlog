@@ -1,0 +1,9 @@
+cmake_build/
+output/
+.vscode/
+.venv/
+*.o
+*.a
+*.so
+comm/verinfo.h
+__pycache__
