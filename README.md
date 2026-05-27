@@ -1,4 +1,4 @@
-a fork from [https://github.com/Tencent/mars.git](https://github.com/jqctop1/mars)
+a fork from [https://github.com/jqctop1/mars](https://github.com/jqctop1/mars)
 
 Deleted unused code and streamlined comm.
 
